@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C#\pr3\bin\Debug\net10.0\pr3.exe
+C:\Users\Lenovo\Desktop\C#\pr3\bin\Debug\net10.0\pr3.deps.json
+C:\Users\Lenovo\Desktop\C#\pr3\bin\Debug\net10.0\pr3.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C#\pr3\bin\Debug\net10.0\pr3.dll
+C:\Users\Lenovo\Desktop\C#\pr3\bin\Debug\net10.0\pr3.pdb
+C:\Users\Lenovo\Desktop\C#\pr3\obj\Debug\net10.0\pr3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C#\pr3\obj\Debug\net10.0\pr3.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C#\pr3\obj\Debug\net10.0\pr3.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C#\pr3\obj\Debug\net10.0\pr3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#\pr3\obj\Debug\net10.0\pr3.sourcelink.json
+C:\Users\Lenovo\Desktop\C#\pr3\obj\Debug\net10.0\pr3.dll
+C:\Users\Lenovo\Desktop\C#\pr3\obj\Debug\net10.0\refint\pr3.dll
+C:\Users\Lenovo\Desktop\C#\pr3\obj\Debug\net10.0\pr3.pdb
+C:\Users\Lenovo\Desktop\C#\pr3\obj\Debug\net10.0\pr3.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C#\pr3\obj\Debug\net10.0\ref\pr3.dll
