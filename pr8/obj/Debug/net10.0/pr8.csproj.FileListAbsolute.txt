@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C#\pr8\bin\Debug\net10.0\pr8.exe
+C:\Users\Lenovo\Desktop\C#\pr8\bin\Debug\net10.0\pr8.deps.json
+C:\Users\Lenovo\Desktop\C#\pr8\bin\Debug\net10.0\pr8.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C#\pr8\bin\Debug\net10.0\pr8.dll
+C:\Users\Lenovo\Desktop\C#\pr8\bin\Debug\net10.0\pr8.pdb
+C:\Users\Lenovo\Desktop\C#\pr8\obj\Debug\net10.0\pr8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C#\pr8\obj\Debug\net10.0\pr8.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C#\pr8\obj\Debug\net10.0\pr8.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C#\pr8\obj\Debug\net10.0\pr8.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#\pr8\obj\Debug\net10.0\pr8.sourcelink.json
+C:\Users\Lenovo\Desktop\C#\pr8\obj\Debug\net10.0\pr8.dll
+C:\Users\Lenovo\Desktop\C#\pr8\obj\Debug\net10.0\refint\pr8.dll
+C:\Users\Lenovo\Desktop\C#\pr8\obj\Debug\net10.0\pr8.pdb
+C:\Users\Lenovo\Desktop\C#\pr8\obj\Debug\net10.0\pr8.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C#\pr8\obj\Debug\net10.0\ref\pr8.dll
