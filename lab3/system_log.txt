@@ -1,0 +1,14 @@
+[2026-10-22 22:58:12] [ERROR] [DomainException] Кількість годин курсу має бути більшою за нуль. Передано: -10
+StackTrace:    at PracticalWork4.Course.set_Hours(Int32 value) in C:\Users\Lenovo\Desktop\C#\lab3\Program.cs:line 176
+   at PracticalWork4.Course..ctor(Int32 id, String title, Int32 hours) in C:\Users\Lenovo\Desktop\C#\lab3\Program.cs:line 184
+   at PracticalWork4.Program.<>c__DisplayClass0_0.<Main>b__0() in C:\Users\Lenovo\Desktop\C#\lab3\Program.cs:line 256
+   at PracticalWork4.SafeExecutor.Execute(Action action, String operationName) in C:\Users\Lenovo\Desktop\C#\lab3\Program.cs:line 82
+--------------------------------------------------
+[2026-10-22 22:58:12] [ERROR] [ValidationException] Поле: FullName. ПІБ студента не може бути порожнім.
+StackTrace:    at PracticalWork4.Student.set_FullName(String value) in C:\Users\Lenovo\Desktop\C#\lab3\Program.cs:line 129
+   at PracticalWork4.Student..ctor(Int32 id, String fullName, String speciality) in C:\Users\Lenovo\Desktop\C#\lab3\Program.cs:line 147
+   at PracticalWork4.Program.<>c__DisplayClass0_0.<Main>b__1() in C:\Users\Lenovo\Desktop\C#\lab3\Program.cs:line 262
+   at PracticalWork4.SafeExecutor.Execute(Action action, String operationName) in C:\Users\Lenovo\Desktop\C#\lab3\Program.cs:line 82
+--------------------------------------------------
+[2026-10-22 22:58:12] [INFO] Операція 'Додавання валідних даних' виконана успішно.
+[2026-10-22 22:58:12] [INFO] Операція 'Експорт звіту' виконана успішно.
