@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C#\lab9\bin\Debug\net10.0\lab9.exe
+C:\Users\Lenovo\Desktop\C#\lab9\bin\Debug\net10.0\lab9.deps.json
+C:\Users\Lenovo\Desktop\C#\lab9\bin\Debug\net10.0\lab9.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C#\lab9\bin\Debug\net10.0\lab9.dll
+C:\Users\Lenovo\Desktop\C#\lab9\bin\Debug\net10.0\lab9.pdb
+C:\Users\Lenovo\Desktop\C#\lab9\obj\Debug\net10.0\lab9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C#\lab9\obj\Debug\net10.0\lab9.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C#\lab9\obj\Debug\net10.0\lab9.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C#\lab9\obj\Debug\net10.0\lab9.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#\lab9\obj\Debug\net10.0\lab9.sourcelink.json
+C:\Users\Lenovo\Desktop\C#\lab9\obj\Debug\net10.0\lab9.dll
+C:\Users\Lenovo\Desktop\C#\lab9\obj\Debug\net10.0\refint\lab9.dll
+C:\Users\Lenovo\Desktop\C#\lab9\obj\Debug\net10.0\lab9.pdb
+C:\Users\Lenovo\Desktop\C#\lab9\obj\Debug\net10.0\lab9.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C#\lab9\obj\Debug\net10.0\ref\lab9.dll
